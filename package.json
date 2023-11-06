@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zill4/cascade-diff.git"
+    "url": "https://github.com/Cubex-LLC/cascade-diff.git"
   },
   "bugs": {},
   "devDependencies": {
     "@types/chai": "^4.3.6",
-    "@types/mocha": "^10.0.1",
+    "@types/mocha": "^10.0.3",
     "chai": "^4.3.8",
     "jsdom": "^22.1.0",
     "mocha": "^10.2.0",

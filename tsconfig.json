@@ -21,6 +21,7 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noImplicitThis": false,
+    "baseUrl": ".",
     "ignoreDeprecations": "5.0",
     "paths": {
       "cascade-diff": [

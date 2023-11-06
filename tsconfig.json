@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es2017",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "isolatedModules": false,
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": false,
+    "removeComments": true,
+    "noLib": false,
+    "preserveConstEnums": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "noImplicitUseStrict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitThis": false,
+    "ignoreDeprecations": "5.0",
+    "paths": {
+      "cascade-diff": [
+        "./src/scripts/modules/Diff.ts"
+      ]
+    },
+    "lib": [
+      "dom",
+      "es2017"
+    ]
+  },
+  "include": [
+    "src"
+  ],
+  "compileOnSave": true,
+  "buildOnSave": false
+}
